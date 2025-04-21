@@ -11,6 +11,7 @@
 .name {
     font-weight: bold;
     flex: 1;
+    color: black;
 }
 
 .online {

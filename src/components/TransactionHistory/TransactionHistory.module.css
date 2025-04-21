@@ -3,23 +3,22 @@
     max-width: 600px;
     margin: 24px auto;
     border-collapse: collapse;
-    box-shadow: 0 0 6px rgba(0, 0, 0, 0.08);
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
     text-align: center;
-    font-size: 14px;
 }
 
 .transactionTable thead {
-    background-color: #3b82f6;
-    color: #fff;
+    background-color: lightblue;
+    color: white;
 }
 
 .transactionTable th,
 .transactionTable td {
-    padding: 10px;
-    border: 1px solid #ddd;
+    padding: 12px;
+    border: 1px solid #e0e0e0;
 }
 
 .transactionTable tbody tr:nth-child(even) {
-    background-color: #f3f6f9;
+    background-color: #f9f9f9;
 }
